@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\Users\Ritik\.gemini\antigravity\brain\ee1c52c3-8a0d-4128-88ac-eef8f2879767\priti_portfolio_ui_1776942261261.png" width="100%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
+  <img src="https://i.ibb.co/SXqcTCMB/Banner.png" width="100%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
 </div>
 
 <br/>
