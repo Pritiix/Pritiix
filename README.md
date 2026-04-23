@@ -1,5 +1,8 @@
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" /> Hello, I'm Priti Kumari
+  </h1>
 <div align="center">
-  <img src="https://i.ibb.co/DHYrW912/Chat-GPT-Image-Apr-23-2026-05-10-04-PM.png" width="100%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
+  <img src="https://i.ibb.co/DHYrW912/Chat-GPT-Image-Apr-23-2026-05-10-04-PM.png" width="100%" height="50%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
 </div>
 
 <br/>
@@ -9,14 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FF69B4&height=3"/>
   
   <br/><br/>
-  
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" /> Hello, I'm Priti Kumari
-  </h1>
-  
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="25" /> Calm Mind • Sharp Logic • Consistent Growth <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" width="25" />
-  </h3>
   
   <br/>
 
