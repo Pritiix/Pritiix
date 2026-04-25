@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" /> Hello, I'm Priti Kumari
   </h1>
 <div align="center">
-  <img src="https://i.ibb.co/DHYrW912/Chat-GPT-Image-Apr-23-2026-05-10-04-PM.png" width="100%" height="50%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
+  <img src="https://i.ibb.co/DHYrW912/Chat-GPT-Image-Apr-23-2026-05-10-04-PM.png" width="100%" height="150px%" alt="Priti Kumari Developer Dashboard" style="border-radius: 15px;" />
 </div>
 
 <br/>
