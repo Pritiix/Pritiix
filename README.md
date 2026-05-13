@@ -31,46 +31,25 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" width="30" />
-        About Me
-      </h2>
-      
-<p>
-  I am a passionate developer focused on building intelligent solutions,
-  solving complex problems, and growing every day toward becoming a Software Engineer.
-</p>
+      <h2>💖 About Me</h2>
+      <p>
+        I am a passionate developer focused on building intelligent solutions,
+        solving complex problems, and growing every day toward becoming a Software Engineer.
+      </p>
+      <ul>
+        <li>💻 <b>Currently diving deep into:</b> Data Structures & Web Development</li>
+        <li>🧠 <b>Core Focus:</b> Problem-solving with elegant code</li>
+        <li>🌱 <b>Daily Habit:</b> Growing through unstoppable consistency</li>
+        <li>⚡ <b>Motto:</b> <i>"Consistency always beats Motivation"</i></li>
+      </ul>
+    </td>
 
-<ul>
-  <li>💻 <b>Currently diving deep into:</b> Data Structures & Web Development</li>
-  <li>🧠 <b>Core Focus:</b> Problem-solving with elegant code</li>
-  <li>🌱 <b>Daily Habit:</b> Growing through unstoppable consistency</li>
-  <li>⚡ <b>Motto:</b> <i>"Consistency always beats Motivation"</i></li>
-</ul>
-
+<td width="45%" align="center">
+  <img src="imageforabout.png" width="300" alt="About Me Image"/>
 </td>
-
-<td width="45%" valign="top">
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="30" />
-  Trajectory
-</h2>
-
-<p>
-  Transitioning from a dedicated learner to an engineering powerhouse.
-</p>
-
-<ul>
-  <li>🔍 <b>Daily DSA:</b> Unbroken LeetCode Streaks</li>
-  <li>🌐 <b>Engineering:</b> Crafting Full-stack solutions</li>
-  <li>💡 <b>Mindset:</b> <i>"Calm outside. Building logic inside."</i></li>
-</ul>
-
-</td>
+</tr>
   </tr>
 </table>
-
 <br/>
 
 <!-- TECH STACK -->
