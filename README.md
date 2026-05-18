@@ -19,7 +19,7 @@
     <a href="mailto:pritikumari2559@gmail.com"> <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
   </p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer+👩🏻‍💻;Building+Scalable+Solutions+🚀;Daily+DSA+%26+Problem+Solving+🧠;Code.+Create.+Contribute.+💖"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Web+Developer+👩🏻‍💻;Building+Scalable+Solutions+🚀;Daily+DSA+%26+Problem+Solving+🧠;Learning+Android+Development+👩🏻‍💻"/>
   
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFB6C1&height=2"/>
